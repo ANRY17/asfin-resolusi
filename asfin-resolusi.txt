@@ -1,0 +1,4 @@
+ASFIN RESOLUSI
+- Konsistem untuk belajar pemrograman 
+- Membuat platform untuk pengelolaan video
+- Membuat forum diskusi
