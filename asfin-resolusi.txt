@@ -2,3 +2,5 @@ ASFIN RESOLUSI
 - Konsistem untuk belajar pemrograman 
 - Membuat platform untuk pengelolaan video
 - Membuat forum diskusi
+- Membuat Merch Shop
+- Kolaborasi dengan lebih banyak expert
